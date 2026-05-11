@@ -128,10 +128,4 @@ Octochains is designed for high-stakes environments where "vibe-based" AI isn't 
 We are expanding Octochains from a library into a comprehensive ecosystem for high-stakes reasoning:
 
 * Community-driven marketplace for pre-tuned specialists Agents.
-
-## License
-Octochains is **Fair-code**, distributed under the **Business Source License 1.1**.
-
-* **Individuals & Internal Use:** Free to use for personal projects, research, and internal business workflows.
-* **Commercial Providers:** You **cannot** offer Octochains as a managed SaaS or sell a commercial wrapper of the engine without a license.
-* **The Guarantee:** On **May 10, 2030**, this version automatically becomes **Apache 2.0 (Open Source)**.
+* 
