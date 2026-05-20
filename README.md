@@ -128,4 +128,3 @@ Octochains is designed for high-stakes environments where "vibe-based" AI isn't 
 We are expanding Octochains from a library into a comprehensive ecosystem for high-stakes reasoning:
 
 * Community-driven marketplace for pre-tuned specialists Agents.
-* 
